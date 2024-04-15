@@ -17,11 +17,11 @@ In proceedings of Twelfth International Conference on Learning Representations, 
 
 1. Mudit Verma
    [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20">](https://linkedin.com/in/iammudit)
-   [<img src="https://github.com/famishedrover/PRIOR_ICLR_resources/blob/main/x-logo.png?raw=true" height="20">](https://x.com/v_mudit)
+   [<img src="https://github.com/famishedrover/PRIOR_ICLR_resources/blob/main/x_logo.png?raw=true" height="20">](https://x.com/v_mudit)
 
 2. Katherine Metcalf
    [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20">](https://www.linkedin.com/in/rin-metcalf-susa-13646b298/)
-   [<img src="https://github.com/famishedrover/PRIOR_ICLR_resources/blob/main/x-logo.png?raw=true" height="20">](https://www.linkedin.com/in/rin-metcalf-susa-13646b298/)
+   [<img src="https://github.com/famishedrover/PRIOR_ICLR_resources/blob/main/x_logo.png?raw=true" height="20">](https://www.linkedin.com/in/rin-metcalf-susa-13646b298/)
 
 ---
 
